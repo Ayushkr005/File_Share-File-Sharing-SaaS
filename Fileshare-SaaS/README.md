@@ -4,26 +4,6 @@ A modern, secure file sharing platform built with React, TypeScript, and Supabas
 
 ---
 
-## 📸 Screenshots
-
-### Landing Page
-![Landing Page](public/screenshots/landing.png)
-
-### Why Choose FileShare & Features
-![Features](public/screenshots/features.png)
-
-### Pricing Plans
-![Pricing Plans](public/screenshots/pricing.png)
-
-### Login Page
-![Login Page](public/screenshots/login.png)
-
-### User Dashboard
-![Dashboard](public/screenshots/dashboard.png)
-
-### Download File Page
-![Download File](public/screenshots/download.png)
-
 ---
 
 ## ✨ Features
